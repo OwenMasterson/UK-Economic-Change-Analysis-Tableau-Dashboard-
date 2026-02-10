@@ -45,3 +45,6 @@ Business expansion or relocation decisions
 
 By combining geographic and sector‑based insights, the analysis offers a comprehensive view of economic change across the UK.
 <img width="738" height="371" alt="Screenshot 2026-02-10 104532" src="https://github.com/user-attachments/assets/d0098264-b8d9-4f00-a3e6-a74b04aa8674" />
+
+Link to Dashbaord : https://public.tableau.com/app/profile/owen.masterson/viz/CHANGEBYINDUSTRY/INDUSTRYCHANGE?publish=yes
+
